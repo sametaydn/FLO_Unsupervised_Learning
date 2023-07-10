@@ -4,7 +4,9 @@
 
 FLO wants to segment its customers and develop marketing strategies based on these segments. For this purpose, customer behaviours will be identified, and groups will be created based on the clustering of these behaviours.
 
-![thumbs_b_c_eba683b39998c2c18cef5429d1f2a776](https://github.com/sametaydn/FLO_Unsupervised_Learning/assets/53154449/ed1acd5c-6fcb-48ab-8c8c-30746745d1e0)
+
+<img width="850" alt="Screenshot 2023-07-11 at 12 01 48 AM" src="https://github.com/sametaydn/FLO_Unsupervised_Learning/assets/53154449/99aeb77d-8f89-4b85-a6aa-c2ddb2087d33">
+
 
 ## Dataset Story
 
